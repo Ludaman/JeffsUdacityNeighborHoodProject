@@ -19,4 +19,5 @@ There is a button to show and hide the list of locations.  This is useful for mo
 
 There is a search bar to automatically filter the list AND the markers displayed.
 
-
+### Updates
+To find updates on this project please visit:  [Jeff's GitHub Neighborhood Project](https://github.com/Ludaman/JeffsUdacityNeighborHoodProject).

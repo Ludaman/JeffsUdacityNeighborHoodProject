@@ -1,15 +1,18 @@
+ 
  body {
 	font-family: Arial, sans-serif;
 	height: 100%;
 	margin: 0;
 	padding: 0;
 }
+
 #menuDiv {
 	position: absolute;
 	z-index: 1;
 	width: 300px;
 	background-color: grey;
 }
+
 #map {
 	bottom:0;
 	top: 0;
@@ -31,16 +34,19 @@ li {
 	padding: 0;
 	background-color: #D3D3D3;
 }
+
 ul {
 	padding: 0;
 	margin: 0;
 
 }
+
 #inputContainer {
 	max-width: 300px;
 	margin: 0 0 0 0;
 	pointer-events: none;
 }
+
 #content {
 	align-items: center;
 	width: 270px;
@@ -51,8 +57,9 @@ ul {
 #hamburger {
 	height: 30px;
 }
+
 #listDiv {
-	display: visible;
+	display: block;
 }
 
 @media screen and (max-width: 450px) {
@@ -60,14 +67,14 @@ ul {
 	#content {
 		width: 100%;
 	}
+
 	#menuDiv {
 		width: 100%;
 		max-height: 100%;
-		position: none;
 		display: block;
 	}
+
 	#map {
-		position: none;  
 		display: block;
 	}
 
