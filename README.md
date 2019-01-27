@@ -1,13 +1,13 @@
-#Jeff Choate's Udacity Neighborhood Project
+# Jeff Choate's Udacity Neighborhood Project
 ============================
-##Purpose
+## Purpose
 This project was developed to learn Google maps API, the Knockout framework, and general Javascript coding.
-##APIs
+## APIs
 This project used the Google Maps API for a map, marker functionality, and information window functionality.
 This project also used the Four Square API to retrieve images based on location tags.  The images are retrieved in real time, the location tags were retrieved as part of development and are static in this application.
-##Running the Application
+## Running the Application
 **The application requires an internet connection in order to connect to the Four Square and Google Maps APIs.**
-###To Run
+### To Run
 Simply Load the webpage.  
 The markers and list items will both response to mouse over, mouse out, and mouse click events.  
 
